@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Vlog Motor & Budaya</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Vlog Motor & Budaya</h1>
+    <p class="subtitle">Jelajahi Keindahan Rumah Adat Mandailing, Ulu Pungkut - Desa Hutagodang</p>
+
+    <section class="card">
+      <h2>Deskripsi Vlog</h2>
+      <p>
+        Ini adalah perjalanan pribadi gue menjelajahi kekayaan budaya Mandailing.
+        Bukan cuma riding, tapi gue bakal bawa lo masuk ke suasana desa adat yang otentik,
+        suara motor yang anti-mainstream, dan cerita warga lokal yang bikin lo mikir ulang soal Indonesia.
+      </p>
+    </section>
+
+    <section class="card">
+      <h2>Langsung ke YouTube</h2>
+      <a class="youtube-button" href="https://youtube.com" target="_blank">Tonton Vlog Sekarang</a>
+    </section>
+
+    <footer>
+      &copy; 2025 Vlog Motor & Budaya - All rights reserved.
+    </footer>
+  </div>
+</body>
+</html>
